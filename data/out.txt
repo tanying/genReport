@@ -1,0 +1,103 @@
+1722716 /TCT/GApp/CameraL   Chang Hongnan (hongnan.chang)   [GAPP][Android6.0][CameraL]The capture icon has blue circle Closed  16/03/04 13:32
+1722628 /TCT/GApp/CameraL   Zhang Jianying (jianying.zhang) [VF17055][1a-Fatal][CTC][Camera]Pano: slow down prompt should be set for slower rates   Verified    16/03/04 13:34
+1733222 /TCT/GApp/CameraL   Zhang Jianying (jianying.zhang) [GAPP][Android6.0][CameraL]Camera will flash back when clikng home button in pano mode  Verified_SW 16/03/10 18:43
+1758695 /TCT/GApp/CameraL   Zhang Jianying (jianying.zhang) [jrdlogger]com.tct.camera Java (JE) Verified    16/03/09 15:26
+1716877 /TCT/GApp/CameraL   Zhang Jianying (jianying.zhang) [GAPP][Android6.0][CameraL][Monitor]Camera display error when capturing pano picutre by volume bar  Verified_SW 16/03/10 18:42
+1717889 /TCT/GApp/CameraL   Zhang Jianying (jianying.zhang) [GAPP][Android 6.0][Gallery]The name of Panorama display no rules   Closed  16/03/09 18:20
+1761486 /TCT/GApp/CameraL   Zhang Jianying (jianying.zhang) [GAPP][Android6.0][CameraL] tap the capture button and move the phone in one direction in PANO mode, the arrow is turncated Verified_SW 16/03/10 14:50
+1779955 /TCT/GApp/CameraL   Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [GAPP][Android6.0][CameraL]Camera will flash back when capturing pano picture   Delivered   16/03/10 18:31
+1761305 /TCT/GApp/CameraL   Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [GAPP][Android6.0][CameraL][Monitor]The camera happened error when click on the screen to focus Verified_SW 16/03/09 18:46
+1761540 /TCT/GApp/CameraL   Lei, NIE(Archermind) (v-nj-nie.lei) [Force close][Camera]It happen camera force close when do the action follow the help tips.  Closed  16/03/09 17:43
+1554243 /TCT/GApp/CameraL   Lei, NIE(Archermind) (v-nj-nie.lei) [GAPP][Android6.0][CameraL][VF][ERGO]The string of help tips don't match with ergo  Verified    16/03/08 17:43
+1718590 /TCT/GApp/CameraL   Wenhua, TU(WMD PIC SH MML-SH-TCT) (wenhua.tu)   [VF17066][1a-Fatal][CTC][Camera]Missing FullHD 60fps for Video in the camera.   Verified    16/03/04 11:57
+1739567 /TCT/GApp/CameraL   Wenhua, TU(WMD PIC SH MML-SH-TCT) (wenhua.tu)   [ALWE][Camera][Usability] Zoom progress bar and camera options are too close. User changes camera options when trying to change zoom    Closed  16/03/04 13:25
+1535930 /TCT/GApp/CameraL   Wenhua, TU(WMD PIC SH MML-SH-TCT) (wenhua.tu)   [GAPP][Android6.0][CameraL][VF]Viewfinder should be cleared while the timer is counting Closed  16/03/04 10:51
+1681579 /TCT/GApp/CameraL   Wenhua, TU(WMD PIC SH MML-SH-TCT) (wenhua.tu)   [Ergo][Camera]Touchless capture feature didn't follow the ergo  Closed  16/03/04 10:51
+1737099 /TCT/GApp/CameraL   Wenhua, TU(WMD PIC SH MML-SH-TCT) (wenhua.tu)   [GAPP][Android6.0][CameraL]The hand picture prompt display in the rear camera   Closed  16/03/09 18:36
+1745917 /TCT/GApp/CameraL   Wenhua, TU(WMD PIC SH MML-SH-TCT) (wenhua.tu)   [GAPP][Android6.0][CameraL]then enter camera again, the gestures photo tip not disappear    Closed  16/03/09 18:36
+1745977 /TCT/GApp/CameraL   Wenhua, TU(WMD PIC SH MML-SH-TCT) (wenhua.tu)   [GAPP][Android6.0][CameraL]The front record video stuck Verified_SW 16/03/10 16:15
+1746006 /TCT/GApp/CameraL   Wenhua, TU(WMD PIC SH MML-SH-TCT) (wenhua.tu)   [GAPP][Android6.0][CameraL]The face beauty and hand still exist in the capture picture  Closed  16/03/04 16:21
+1746021 /TCT/GApp/CameraL   Wenhua, TU(WMD PIC SH MML-SH-TCT) (wenhua.tu)   [GAPP][Android6.0][CameraL]the hand icon not disappear in confirm interface Closed  16/03/09 18:33
+1757912 /TCT/GApp/CameraL   Xuan, ZHOU(Archermind) (xuan.zhou)  [VF17513][Camera][CR]flashlight requirement Verified    16/03/09 17:23
+1761250 /TCT/GApp/CameraL   Xuan, ZHOU(Archermind) (xuan.zhou)  [GAPP][Android 6.0][Camera L][REG]Camera will display stop when finish record video in front camera Closed  16/03/09 17:55
+1692538 /TCT/GApp/CameraL   Xuan, ZHOU(Archermind) (xuan.zhou)  [GAPP][Android6.0][CameraL][Monitor][VF]Camera happen freeze when continue click panorama   Verified    16/03/04 11:33
+1738134 /TCT/GApp/CameraL   Xuan, ZHOU(Archermind) (xuan.zhou)  [Camera]Pop up "Can't connect camera" after capture panorama photo. Verified    16/03/04 13:23
+1554153 /TCT/GApp/CameraL   Ying, TAN(WMD PIC SH MML-SH-TCT) (ying.tan) [GAPP][Android6.0][CameraL][VF][ERGO]The prompt of reset to factory setting don't match with ergo   Verified_SW 16/03/11 09:59
+1620027 /TCT/GApp/CameraL   Yuanxing, TAN(WMD PIC SH MML-SH-TCT) (yuanxing.tan) [GAPP][Android6.0][CameraL]Can't burst shot by boom key Closed  16/03/07 12:40
+1761390 /TCT/GApp/CameraL   Yuanxing, TAN(WMD PIC SH MML-SH-TCT) (yuanxing.tan) [GAPP][Android 6.0][CameraL][Monitor]The boom key cannot take a photo.  Verified_SW 16/03/10 16:46
+1554436 /TCT/GApp/CameraL   Zhenhuan, FAN(WMD PIC SH MML-SH-TCT) (zhfan)    [GAPP][Android6.0][CameraL][VF]The camera will happen error after click capture and faces beauty icon at the same time  Verified_SW 16/03/11 11:51
+1555208 /TCT/QCT MSM8952/Idol4  Fanghua Gu (fanghua.gu) [Language][G06][All language][Generic APK][Launcher][v5.2.52.0523.0]Some words are not translated when connect wifi in status bar.  Delivered   16/03/07 14:54
+1660490 /TCT/QCT MSM8952/Idol4  kangh (kangh)   [onetouch feedback]拍照死机，闪光灯常亮，杀掉进程后重新开启出现无法连接提示Camera ANR，不能继续拍照）   Verified    16/03/08 17:43
+1718980 /TCT/QCT MSM8952/Idol4  Sichao, HU(WMD PIC SH MML-SH-TCT) (sichao.hu)   [Pre-CTS][ALRU][Camera][Force close]tap shot icon when you select pano in camera and it show force close    Closed  16/03/10 11:04
+1749356 /TCT/QCT MSM8952/Idol4  Sichao, HU(WMD PIC SH MML-SH-TCT) (sichao.hu)   [Monkey][Crash][Camera]CRASH: com.tct.camera    Delivered   16/03/10 09:42
+1713011 /TCT/QCT MSM8952/Idol4  Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [onetouch feedback][VIP]camera FC   Verified    16/03/07 15:09
+1720094 /TCT/QCT MSM8952/Idol4  Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [onetouch feedback]phone freezes after taking a photo   Verified    16/03/04 16:08
+1761556 /TCT/QCT MSM8952/Idol4  Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [REG][Camera]Back to home screen when take pictures in pano mode.   Closed  16/03/09 18:33
+1748898 /TCT/QCT MSM8952/Idol4  Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [onetouch feedback]use pano, cant connect camera    Verified    16/03/10 15:23
+1748901 /TCT/QCT MSM8952/Idol4  Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [onetouch feedback]Boom key is pressed twice, but cannot take the photo, then camera FC.    Verified    16/03/07 14:42
+1538142 /TCT/QCT MSM8952/Idol4  Xiaoming, HU(WMD PIC SH MML-SH-TCT) (xmhu)  [onetouch feedback][VIP]退出相机预览界面时，手机会发出轻微的滋声    Verified    16/03/07 10:28
+1552972 /TCT/QCT MSM8952/Idol4  Xiaoming, HU(WMD PIC SH MML-SH-TCT) (xmhu)  [Monitor][Camera]Prompt"Camera error" in viewfinder interface switch mode   Verified    16/03/07 10:32
+1660443 /TCT/QCT MSM8952/Idol4  Xiaoming, HU(WMD PIC SH MML-SH-TCT) (xmhu)  [onetouch feedback]打开微信 拍照提示相机无法连接 重新退出打开正常 Verified    16/03/07 10:47
+1661099 /TCT/QCT MSM8952/Idol4  Ying, TAN(WMD PIC SH MML-SH-TCT) (ying.tan) [ALWE][Camera] When we choose the "FYUSE" in French "USAGE" functionnality under camrea the name USAGE switch to FYUSE  Verified_SW 16/03/11 10:29
+1564625 /TCT/QCT MSM8952/Idol4  Yuanxing, TAN(WMD PIC SH MML-SH-TCT) (yuanxing.tan) [Boom key]Can't take the photo continuous when you long press the boom key in the lock screen   Deleted 16/03/07 12:45
+1683221 /TCT/QCT MSM8952/Idol4  Yuanxing, TAN(WMD PIC SH MML-SH-TCT) (yuanxing.tan) [REG][Camera] The size of front camera lost 4M(16:9) item   Verified    16/03/07 09:43
+1712399 /TCT/QCT MSM8952/Idol4  Zhenhuan, FAN(WMD PIC SH MML-SH-TCT) (zhfan)    [Monitor][ANR][Camera]Viewfinder interface prompt"Camera error" after prompt "Camera isn't responding"in front camera take pictures.    Verified_SW 16/03/11 11:47
+1719404 /TCT/QCT MSM8952/Idol4_Safeguard    Feng Weidong (weidong.feng) [jrdlogger]com.tct.camera Java (JE) Delivered   16/03/08 00:33
+1712949 /TCT/QCT MSM8952/Idol4_Safeguard    Ying, TAN(WMD PIC SH MML-SH-TCT) (ying.tan) [jrdlogger]com.tct.camera JE    Delivered   16/03/04 18:37
+1713113 /TCT/QCT MSM8952/Idol4_Safeguard    Ying, TAN(WMD PIC SH MML-SH-TCT) (ying.tan) [jrdlogger]com.tct.camera Java (JE) Delivered   16/03/05 15:54
+1713410 /TCT/QCT MSM8952/Idol4_Safeguard    Ying, TAN(WMD PIC SH MML-SH-TCT) (ying.tan) [jrdlogger]com.tct.camera JE    Delivered   16/03/08 12:59
+1748797 /TCT/QCT MSM8952/Idol4_Safeguard    Ying, TAN(WMD PIC SH MML-SH-TCT) (ying.tan) [jrdlogger]com.tct.camera Java (JE) Delivered   16/03/08 16:22
+1714704 /TCT/QCT MSM8952/Idol4_Safeguard    Yuanxing, TAN(WMD PIC SH MML-SH-TCT) (yuanxing.tan) [jrdlogger]com.tct.camera Java (JE) Delivered   16/03/07 16:24
+1722089 /TCT/QCT MSM8952/Idol4_Safeguard    Yuanxing, TAN(WMD PIC SH MML-SH-TCT) (yuanxing.tan) [jrdlogger]com.tct.camera Java (JE) Delivered   16/03/07 15:31
+1748884 /TCT/QCT MSM8952/Idol4_Safeguard    Yuanxing, TAN(WMD PIC SH MML-SH-TCT) (yuanxing.tan) [jrdlogger]com.tct.camera Java (JE) Delivered   16/03/07 11:41
+1749039 /TCT/QCT MSM8952/Idol4_Safeguard    Yuanxing, TAN(WMD PIC SH MML-SH-TCT) (yuanxing.tan) [jrdlogger]com.tct.camera Java (JE) Delivered   16/03/07 11:07
+1775882 /TCT/QCT MSM8952/Idol4_Safeguard    Yuanxing, TAN(WMD PIC SH MML-SH-TCT) (yuanxing.tan) [jrdlogger]com.tct.camera Java (JE) Verified_SW 16/03/10 19:43
+1563712 /TCT/QCT MSM8976/Idol4 S    Fanghua Gu (fanghua.gu) [Language][G01][G06][All language][Launcher]Some words are not translated when connect wifi in status bar.  Closed  16/03/07 14:54
+1662394 /TCT/QCT MSM8976/Idol4 S    Long, CHEN(WMD PIC CD SWD1-CD-TCT) (long.chen.nb)   [Google CTS][CTS]During test camera package,camera crash    Closed  16/03/04 11:01
+1464608 /TCT/QCT MSM8976/Idol4 S    Sichao, HU(WMD PIC SH MML-SH-TCT) (sichao.hu)   [onetouch feedback]camera失效 Verified    16/03/10 13:51
+1719160 /TCT/QCT MSM8976/Idol4 S    Sichao, HU(WMD PIC SH MML-SH-TCT) (sichao.hu)   [Camera][Force Closed]Camera FC when capture panorama photo.    Verified    16/03/10 11:01
+1783057 /TCT/QCT MSM8976/Idol4 S    Sichao, HU(WMD PIC SH MML-SH-TCT) (sichao.hu)   [jrdlogger]com.tct.camera Java (JE) Verified_SW 16/03/11 10:10
+1717477 /TCT/QCT MSM8976/Idol4 S    Sichao, HU(WMD PIC SH MML-SH-TCT) (sichao.hu)   [onetouch feedback]preview frozen after continuously taking several single shot Delivered   16/03/04 14:10
+1761476 /TCT/QCT MSM8976/Idol4 S    Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [Camera]Camera  will quit auto when capture panorama photo. Verified    16/03/09 18:36
+1355117 /TCT/QCT MSM8976/Idol4 S    Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [Hangouts]Video chat does not display the image in the hangouts Closed  16/03/10 14:25
+1456466 /TCT/QCT MSM8976/Idol4 S    Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [3rd APK][Wechat] WeChat scan the QR Code showed a blank screen Verified    16/03/10 14:12
+1714305 /TCT/QCT MSM8976/Idol4 S    Lei, NIE(Archermind) (v-nj-nie.lei) [Camera]Sometimes can't capture photo by boom key in camera.    Closed  16/03/09 18:20
+1714397 /TCT/QCT MSM8976/Idol4 S    Lei, NIE(Archermind) (v-nj-nie.lei) [Camera]Photo will be captured in front camera if double press boom key in rear camera. Closed  16/03/09 18:30
+1278604 /TCT/QCT MSM8976/Idol4 S    Wenhua, TU(WMD PIC SH MML-SH-TCT) (wenhua.tu)   [Camera]Usually the preview screen  is not fluent in slo.mo mode.   Verified    16/03/09 15:27
+1565506 /TCT/QCT MSM8976/Idol4 S    Wenhua, TU(WMD PIC SH MML-SH-TCT) (wenhua.tu)   [ALWE][Camera][Usability] Zoom progress bar and camera options are too close. User changes camera options when trying to change zoom    Delivered   16/03/04 16:53
+1234176 /TCT/QCT MSM8976/Idol4 S    Wenhua, TU(WMD PIC SH MML-SH-TCT) (wenhua.tu)   [camera]GPS does't work in slo-mo mode. Verified    16/03/10 15:49
+1527485 /TCT/QCT MSM8976/Idol4 S    Xiaoming, HU(WMD PIC SH MML-SH-TCT) (xmhu)  [Camera]Prompt "Can't connect to camera" if tap on camera preview screen continuously and quickly.  Closed  16/03/07 10:28
+1653749 /TCT/QCT MSM8976/Idol4 S    Xiaoming, HU(WMD PIC SH MML-SH-TCT) (xmhu)  [Stability]power down   Verified    16/03/07 13:46
+1657689 /TCT/QCT MSM8976/Idol4 S    Xiaoming, HU(WMD PIC SH MML-SH-TCT) (xmhu)  [Camera] Can't taken photo when again enter front camera, press capture button  in Front camera screen  Verified    16/03/10 14:52
+1711721 /TCT/QCT MSM8976/Idol4 S    Xuan, ZHOU(Archermind) (xuan.zhou)  [Camera]Pop up "Can't connect camera" after capture panorama photo. Verified    16/03/04 15:00
+1663206 /TCT/QCT MSM8976/Idol4 S    Yuanxing, TAN(WMD PIC SH MML-SH-TCT) (yuanxing.tan) [Camera][REG] The size of front camera lost 4M(16:9) item   Verified    16/03/07 09:43
+1628863 /TCT/QCT MSM8976/Idol4 S    Yuanxing, TAN(WMD PIC SH MML-SH-TCT) (yuanxing.tan) [Camera]Can enable HDR and night mode at the same time if tap on two icon quickly.  Verified    16/03/07 09:43
+1719280 /TCT/QCT MSM8976/Idol4 S    Yuanxing, TAN(WMD PIC SH MML-SH-TCT) (yuanxing.tan) [boom key]short press boom key,but sometimes have shutter sound Verified    16/03/07 09:40
+1564356 /TCT/QCT MSM8976/Idol4 S VF Chang Hongnan (hongnan.chang)   [Camera]The timekeeping icon location switch have stall when vertical reversal phone    Verified_SW 16/03/04 15:47
+1604759 /TCT/QCT MSM8976/Idol4 S VF Zhang Jianying (jianying.zhang) [VF17055][1a-Fatal][CTC][Camera]Pano: slow down prompt should be set for slower rates   Verified_SW 16/03/04 15:17
+1604660 /TCT/QCT MSM8976/Idol4 S VF kangh (kangh)   [VF17053][1a-Fatal][CTC][CR][Camera]CR:camera mode slomo doesn't work at all    Verified_SW 16/03/08 17:04
+1546521 /TCT/QCT MSM8976/Idol4 S VF kangh (kangh)   [Camera]The video record by slow motion is shorter than real record and the voice is strange.   Verified_SW 16/03/08 16:59
+1559369 /TCT/QCT MSM8976/Idol4 S VF kangh (kangh)   [Camera]The video which recorded by slo-mo mode play caton in PC.   Verified_SW 16/03/08 10:28
+1464600 /TCT/QCT MSM8976/Idol4 S VF Long, CHEN(WMD PIC CD SWD1-CD-TCT) (long.chen.nb)   [3rd APK][Instagram][Force Close] Zoom while recording video causes Instagram Force Close   Verified_SW 16/03/04 13:59
+1761278 /TCT/QCT MSM8976/Idol4 S VF Long, CHEN(WMD PIC CD SWD1-CD-TCT) (long.chen.nb)   [MINI] Q3A lib into mini software   Verified_SW 16/03/10 10:15
+1692434 /TCT/QCT MSM8976/Idol4 S VF Long, CHEN(WMD PIC CD SWD1-CD-TCT) (long.chen.nb)   [VF17206][2 - Serious][CTC][Camera]'Camera/Auto mode: Unable to switch to camera mode while video recording is in progress  Closed  16/03/10 21:15
+1749844 /TCT/QCT MSM8976/Idol4 S VF Long, CHEN(WMD PIC CD SWD1-CD-TCT) (long.chen.nb)   [SWD-TEST][Camera]video face beauty preview lag Delivered   16/03/09 11:01
+1546457 /TCT/QCT MSM8976/Idol4 S VF Sichao, HU(WMD PIC SH MML-SH-TCT) (sichao.hu)   [Performance][Response time][Camera]Take a photo is slower than Samsung S6. Verified_SW 16/03/10 13:46
+1175558 /TCT/QCT MSM8976/Idol4 S VF Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [Performance][UX][Camera] The response time of shutter time is longer than reference phone under heavy loading  Verified_SW 16/03/10 15:18
+1719357 /TCT/QCT MSM8976/Idol4 S VF Lei, NIE(Archermind) (v-nj-nie.lei) [REG][Boom key][Camera]Fail to take a picture by press boom key Verified_SW 16/03/09 18:35
+1758768 /TCT/QCT MSM8976/Idol4 S VF Lei, NIE(Archermind) (v-nj-nie.lei) [Force close][Camera]It happen camera force close when do the action follow the help tips.  Verified_SW 16/03/09 18:33
+1605141 /TCT/QCT MSM8976/Idol4 S VF Wenhua, TU(WMD PIC SH MML-SH-TCT) (wenhua.tu)   [VF17066][1a-Fatal][CTC][Camera]Missing FullHD 60fps for Video in the camera.   Verified_SW 16/03/04 16:51
+1245548 /TCT/QCT MSM8976/Idol4 S VF Wenhua, TU(WMD PIC SH MML-SH-TCT) (wenhua.tu)   [UX][VERY HIGH][Ergo][Camera]Settings size and video quality incorrect resolutions  Verified_SW 16/03/04 16:50
+1490863 /TCT/QCT MSM8976/Idol4 S VF Wenhua, TU(WMD PIC SH MML-SH-TCT) (wenhua.tu)   [Ergo][Camera]Touchless capture feature didn't follow the ergo  Verified_SW 16/03/04 16:56
+1755766 /TCT/QCT MSM8976/Idol4 S VF Xuan, ZHOU(Archermind) (xuan.zhou)  [VF17513][Camera][CR]flashlight requirement Verified_SW 16/03/09 17:25
+1657743 /TCT/QCT MSM8976/Idol4 S VF Zhenhuan, FAN(WMD PIC SH MML-SH-TCT) (zhfan)    [Camera]It will pop can't connect camera when continually take photos.  Verified_SW 16/03/11 11:49
+1661030 /TCT/QCT MSM8976/Idol4 S VF Zhenhuan, FAN(WMD PIC SH MML-SH-TCT) (zhfan)    [Camera][REG]Front camera record video get stuck    Verified_SW 16/03/10 14:53
+1718092 /TCT/QCT MSM8976/Idol4 S_jrdlogger  Zhang Jianying (jianying.zhang) [jrdlogger]com.tct.camera Java (JE) Delivered   16/03/10 13:59
+1715625 /TCT/QCT MSM8976/Idol4 S_jrdlogger  Feng Weidong (weidong.feng) [jrdlogger]com.tct.camera Java (JE) Verified_SW 16/03/11 10:42
+1712211 /TCT/QCT MSM8976/Idol4 S_jrdlogger  Xuan, ZHOU(Archermind) (xuan.zhou)  [jrdlogger]com.tct.camera Java (JE) Delivered   16/03/08 16:18
+1712567 /TCT/QCT MSM8976/Idol4 S_jrdlogger  Ying, TAN(WMD PIC SH MML-SH-TCT) (ying.tan) [jrdlogger]com.tct.camera Java (JE) Delivered   16/03/08 12:03
+1711406 /TCT/QCT MSM8976/Idol4 S_jrdlogger  Yuanxing, TAN(WMD PIC SH MML-SH-TCT) (yuanxing.tan) [jrdlogger]com.tct.camera Java (JE) Delivered   16/03/07 16:16
+1712212 /TCT/QCT MSM8976/Idol4 S_jrdlogger  Yuanxing, TAN(WMD PIC SH MML-SH-TCT) (yuanxing.tan) [jrdlogger]com.tct.camera Java (JE) Delivered   16/03/08 14:05
+1717619 /TCT/QCT MSM8976/Idol4 S_jrdlogger  Yuanxing, TAN(WMD PIC SH MML-SH-TCT) (yuanxing.tan) [jrdlogger]com.tct.camera Java (JE) Delivered   16/03/07 17:36
+1748348 /TCT/QCT MSM8976/Idol4 S_jrdlogger  Yuanxing, TAN(WMD PIC SH MML-SH-TCT) (yuanxing.tan) [jrdlogger]com.tct.camera Java (JE) Delivered   16/03/07 15:28
+1758177 /TCT/QCT MSM8976/Idol4 S_jrdlogger  Yuanxing, TAN(WMD PIC SH MML-SH-TCT) (yuanxing.tan) [jrdlogger]com.tct.camera Java (JE) Delivered   16/03/09 16:01

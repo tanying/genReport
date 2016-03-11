@@ -1,0 +1,160 @@
+1662543 /TCT/GApp/CameraL   Zhang Jianying (jianying.zhang) [GAPP][Android6.0][CameraL]The prompt "move up" when the pointer in the above   Assigned
+1743284 /TCT/GApp/CameraL   Zhang Jianying (jianying.zhang) [GAPP][Android6.0][CameraL][Monitor]tap the button continously to save the PANO picture it will get stuck   Assigned
+1749315 /TCT/GApp/CameraL   Zhang Jianying (jianying.zhang) [GAPP][Android6.0][CameraL][Monitor][VF]Panorama is not response when quickly click camera in recent list   Opened
+1529552 /TCT/GApp/CameraL   Long, CHEN(WMD PIC CD SWD1-CD-TCT) (long.chen.nb)   [GAPP][Android6.0][CameraL][VF]The camera will happen error after capture picture   Assigned
+1780643 /TCT/GApp/CameraL   lvh (lvh)   [GAPP][Android 6.0][CameraL][ANR][Monitor]The "Camera isn't responsing" dialog pops up when recording a video.  Assigned
+1697333 /TCT/GApp/CameraL   Sichao, HU(WMD PIC SH MML-SH-TCT) (sichao.hu)   [GAPP][Android6.0][CameraL]the later period of vedio display upside down in micro vedio mode    Assigned
+1716603 /TCT/GApp/CameraL   Sichao, HU(WMD PIC SH MML-SH-TCT) (sichao.hu)   [Gapp][Android 6.0][CameraL]The number of burstshot will disappera  Assigned
+1718653 /TCT/GApp/CameraL   Sichao, HU(WMD PIC SH MML-SH-TCT) (sichao.hu)   [Android 6.0][CameraL][Monitor]The number display 9 after burst shot    Assigned
+1746114 /TCT/GApp/CameraL   Sichao, HU(WMD PIC SH MML-SH-TCT) (sichao.hu)   [GAPP][Android 6.0][Camera L]The save circle don't finish   Assigned
+1749353 /TCT/GApp/CameraL   Sichao, HU(WMD PIC SH MML-SH-TCT) (sichao.hu)   [GAPP][Android6.0][CameraL][VF]Burst shot isn't sound when adjust ringtone to zero  Assigned
+1761210 /TCT/GApp/CameraL   Sichao, HU(WMD PIC SH MML-SH-TCT) (sichao.hu)   [GAPP][Android 6.0][Camera L][VF]The bar of beauty doesn't automatic disappear after gesture to take picture    Assigned
+1779255 /TCT/GApp/CameraL   Sichao, HU(WMD PIC SH MML-SH-TCT) (sichao.hu)   [GAPP][Android6.0][CameraL]The burst shot number don't disappear    Assigned
+1779801 /TCT/GApp/CameraL   Sichao, HU(WMD PIC SH MML-SH-TCT) (sichao.hu)   [GAPP][Android6.0][CameraL]The flash will close when bursting shot  Assigned
+1780180 /TCT/GApp/CameraL   Sichao, HU(WMD PIC SH MML-SH-TCT) (sichao.hu)   [GAPP][Android6.0][CameraL][Monitor]The screen freeze during burstshot  Assigned
+1780442 /TCT/GApp/CameraL   Sichao, HU(WMD PIC SH MML-SH-TCT) (sichao.hu)   [GAPP][Android6.0][CameraL][Monitor]The screen freeze during taking a photo by gesture control  Assigned
+1621106 /TCT/GApp/CameraL   taoting (taoting)   [GAPP][Android6.0][CameraL]The save animation will appear twice when bursting shot  Assigned
+1711307 /TCT/GApp/CameraL   Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [GAPP][Android6.0][CameraL]It is slowly to enter camera Assigned
+1752909 /TCT/GApp/CameraL   Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [GAPP][Android 6.0][Camera]Shoot is not smooth and sound stuck when use boom key.   Assigned
+1761702 /TCT/GApp/CameraL   Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [GAPP][Android6.0][CameraL][Monitor] Can not pull down the status bar in camera interface   Assigned
+1780501 /TCT/GApp/CameraL   Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [GAPP][Android6.0][CameraL][REG]The pano capture interface has not change after capture picture Assigned
+1780924 /TCT/GApp/CameraL   Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [GAPP][Android 6.0][CameraL]The thumbnail is landscape after rotating the phone.    Assigned
+1783267 /TCT/GApp/CameraL   Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [GAPP][Android6.0][CameraL][Force Close]Camera has stopped when launch camera after install new version camera  Assigned
+1784837 /TCT/GApp/CameraL   Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [GAPP][Android6.0][CameraL]It will pop up tips when every take picture of gesture   Assigned
+1784916 /TCT/GApp/CameraL   Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [GAPP][Android6.0][CameraL]Shoot key display gray after click two shoot key Assigned
+1785226 /TCT/GApp/CameraL   Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [GAPP][Android6.0][CameraL][Monitor]The camera will happen error after click boom key   Assigned
+1785242 /TCT/GApp/CameraL   Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [GAPP][Android6.0][CameraL]The boom key tips still pop up in guest mode Assigned
+1761666 /TCT/GApp/CameraL   Lei, NIE(Archermind) (v-nj-nie.lei) camera -> settings -> size需要改为“Photo size (rear)”和“Photo size (front)”  Opened
+1761286 /TCT/GApp/CameraL   Lei, NIE(Archermind) (v-nj-nie.lei) [GAPP][Android 6.0][Camera L]The help tips display in ensure interface  Assigned
+1761391 /TCT/GApp/CameraL   Lei, NIE(Archermind) (v-nj-nie.lei) [GAPP][Android 6.0][Camera L]The call sound inconformity after click boom key   Assigned
+1779269 /TCT/GApp/CameraL   Lei, NIE(Archermind) (v-nj-nie.lei) [GAPP][Android6.0][CameraL]The boom key has no function in the camera key   Assigned
+1779782 /TCT/GApp/CameraL   Lei, NIE(Archermind) (v-nj-nie.lei) [Monitor][Camera]The face beauty icon will disappear when change to front camera.   Opened
+1783510 /TCT/GApp/CameraL   Lei, NIE(Archermind) (v-nj-nie.lei) [Boom key]Press Boom key with vibration when mute mode is on    Opened
+1778629 /TCT/GApp/CameraL   Lei, NIE(Archermind) (v-nj-nie.lei) [Translation][Hungarian][Camera]The camera help tips display incomplete.    Opened
+1783231 /TCT/GApp/CameraL   Lei, NIE(Archermind) (v-nj-nie.lei) [Ergo][Camera]The night mode prompt not removed.    Opened
+1756321 /TCT/GApp/CameraL   Wenhua, TU(WMD PIC SH MML-SH-TCT) (wenhua.tu)   [GAPP][Android 6.0][Camera L][VF]The gesture frame is not disappear meanwhile click shooting key    Assigned
+1761201 /TCT/GApp/CameraL   Wenhua, TU(WMD PIC SH MML-SH-TCT) (wenhua.tu)   [GAPP][Android 6.0][Camera L]The progress bar is wrong after record micro-video during call Assigned
+1779256 /TCT/GApp/CameraL   Wenhua, TU(WMD PIC SH MML-SH-TCT) (wenhua.tu)   [GAPP][Android6.0][CameraL]The faces beauty display after click recent key  Opened
+1780132 /TCT/GApp/CameraL   Wenhua, TU(WMD PIC SH MML-SH-TCT) (wenhua.tu)   [GAPP][Android6.0][CameraL]It can capture picture by volume key after gesture control prompt pop up Opened
+1718919 /TCT/GApp/CameraL   Xiaoming, HU(WMD PIC SH MML-SH-TCT) (xmhu)  [GAPP][Android6.0][CameraL]Burstshot is slow    Assigned
+1489918 /TCT/GApp/CameraL   Xiaoming, HU(WMD PIC SH MML-SH-TCT) (xmhu)  [GAPP][Android6.0][CameraL]The flashlight will flash in pano mode   Assigned
+1760045 /TCT/GApp/CameraL   Xiaoming, HU(WMD PIC SH MML-SH-TCT) (xmhu)  [GAPP][Android6.0][CameraL]Tap screen to teke photo while recording in AUTO mode it pop up “Camera error“   Assigned
+1779887 /TCT/GApp/CameraL   Xiaoming, HU(WMD PIC SH MML-SH-TCT) (xmhu)  [GAPP][Android6.0][CameraL][Monitor]It pop up "Camera error" when switch to MANUAL mode Assigned
+1780464 /TCT/GApp/CameraL   Xiaoming, HU(WMD PIC SH MML-SH-TCT) (xmhu)  GAPP][Android6.0][CameraL][Monitor]It pop up "Camera error" when take photo in MANUAL mode  Assigned
+1533466 /TCT/GApp/CameraL   Xuan, ZHOU(Archermind) (xuan.zhou)  [GAPP][Android6.0][CameraL]It will back to home screen after click setting  Assigned
+1664115 /TCT/GApp/CameraL   Xuan, ZHOU(Archermind) (xuan.zhou)  [GAPP][Android6.0][CameraL]It will switch to other mode after focus in the fyuse mode   Assigned
+1665024 /TCT/GApp/CameraL   Xuan, ZHOU(Archermind) (xuan.zhou)  [GAPP][Android6.0][CameraL]The pano picture capture processing truck    Assigned
+1718312 /TCT/GApp/CameraL   Xuan, ZHOU(Archermind) (xuan.zhou)  [GAPP][Android6.0][CameraL]It will enter lockscreen interface when clicking thumbnail in landscape mode Assigned
+1749406 /TCT/GApp/CameraL   Xuan, ZHOU(Archermind) (xuan.zhou)  [GAPP][Android6.0][CameraL][VF][Monitor]Shoot key is invalid after click screenshot Assigned
+1756183 /TCT/GApp/CameraL   Xuan, ZHOU(Archermind) (xuan.zhou)  [GAPP][Android6.0][CameraL][Monkey]CRASH: com.tct.camera    Opened
+1758424 /TCT/GApp/CameraL   Xuan, ZHOU(Archermind) (xuan.zhou)  [GAPP][Android 6.0][Camera L]It is hard to pop up zoom bar when double click capture interface  Assigned
+1761310 /TCT/GApp/CameraL   Xuan, ZHOU(Archermind) (xuan.zhou)  [GAPP][Android 6.0][Camera L]It will display lockscreen first after enter camera    Assigned
+1761602 /TCT/GApp/CameraL   Xuan, ZHOU(Archermind) (xuan.zhou)  [GAPP][Android 6.0][Camera L]It has no permission prompt after enter camera first by volumn key Assigned
+1780597 /TCT/GApp/CameraL   Xuan, ZHOU(Archermind) (xuan.zhou)  [GAPP][Android6.0][CameraL][Monitor]The screen freeze when click take photo in PANO mode    Assigned
+1780768 /TCT/GApp/CameraL   Xuan, ZHOU(Archermind) (xuan.zhou)  [onetouch feedback][VIP]no timer function !!!   Opened
+1784793 /TCT/GApp/CameraL   Yuanxing, TAN(WMD PIC SH MML-SH-TCT) (yuanxing.tan) [jrdlogger]com.tct.camera Java (JE) Opened
+1652169 /TCT/GApp/CameraL   Yuanxing, TAN(WMD PIC SH MML-SH-TCT) (yuanxing.tan) [Camera]MS should have "not support continuous shot" prompt when long press capture icon in HDR mode or Night mode  Assigned
+1718448 /TCT/GApp/CameraL   Yuanxing, TAN(WMD PIC SH MML-SH-TCT) (yuanxing.tan) [GAPP][Android6.0][CameraL]Can change iso value when the iso bar disappear  Assigned
+1783250 /TCT/GApp/CameraL   Yuanxing, TAN(WMD PIC SH MML-SH-TCT) (yuanxing.tan) [Camera]It will back to camera viewfinder auto when capture photo by long pressing boom key in lock screen more than 10 pictures.   Opened
+1784575 /TCT/GApp/CameraL   Yuanxing, TAN(WMD PIC SH MML-SH-TCT) (yuanxing.tan) [REG][Camera][Force close]The camera happen force close when enter it from lockscreen.  Opened
+1567752 /TCT/GApp/CameraL   Zhenhuan, FAN(WMD PIC SH MML-SH-TCT) (zhfan)    [GAPP][Android6.0][CameraL][Monitor]Camera interface blurred screen when recording video in front camera    Assigned
+1736173 /TCT/GApp/CameraL   Zhenhuan, FAN(WMD PIC SH MML-SH-TCT) (zhfan)    [GAPP][Android6.0][CameraL][Monitor]It will appear blue stripe in front camera when opening face beauty Assigned
+1567927 /TCT/QCT MSM8952/Idol4  lvh (lvh)   [jrdlogger]com.tct.camera ANR   Assigned
+1722831 /TCT/QCT MSM8952/Idol4  lvh (lvh)   [onetouch feedback]camera 没有反应，点击back键也没有反应 Assigned
+1749391 /TCT/QCT MSM8952/Idol4  lvh (lvh)   [Monkey][ANR][Camera]NOT RESPONDING: com.tct.camera Assigned
+1722721 /TCT/QCT MSM8952/Idol4  Sichao, HU(WMD PIC SH MML-SH-TCT) (sichao.hu)   [onetouch feedback]摄像头一直打不开，A2A版本上是好的   Assigned
+1649659 /TCT/QCT MSM8952/Idol4  Sichao, HU(WMD PIC SH MML-SH-TCT) (sichao.hu)   [Monitor][Camera]Exposure value icons move when pinch open/close to zoom in/out Assigned
+1692775 /TCT/QCT MSM8952/Idol4  Sichao, HU(WMD PIC SH MML-SH-TCT) (sichao.hu)   [Monitor][Camera]Tt is not smooth when burst shooting   Assigned
+1715911 /TCT/QCT MSM8952/Idol4  Sichao, HU(WMD PIC SH MML-SH-TCT) (sichao.hu)   [REG][Camera]Preview interface and video invert when record video in front camera   Assigned
+1762719 /TCT/QCT MSM8952/Idol4  Sichao, HU(WMD PIC SH MML-SH-TCT) (sichao.hu)   [onetouch feedback]camera无法拍照，然后FC  Assigned
+1536749 /TCT/QCT MSM8952/Idol4  Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [UX performance][Camera]The response time of "Take a video"is too slow compare to P8    Opened
+1536625 /TCT/QCT MSM8952/Idol4  Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [UX performance][Camera]The response time of "Take a picture"is too slow compare to P8  Assigned
+1782693 /TCT/QCT MSM8952/Idol4  Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [onetouch feedback]A2E软件。打开后置camera，对焦框经常不出来了，也不知道对焦好了没有    Assigned
+1707563 /TCT/QCT MSM8952/Idol4  Feng Weidong (weidong.feng) [onetouch feedback][com.tct.camera][Version  v5.2.9.3.0022.0_0219][App force closes]打开时提示不能提示Camera Assigned
+1550538 /TCT/QCT MSM8952/Idol4  Xiaoming, HU(WMD PIC SH MML-SH-TCT) (xmhu)  [Force Close][3rdPartyAPK][Layout]It will prompt FC when you press the "button" in PHOTO BOOTH  Opened
+1748891 /TCT/QCT MSM8952/Idol4  Xiaoming, HU(WMD PIC SH MML-SH-TCT) (xmhu)  [onetouch feedback]HDR produces too strong halos    Assigned
+1748926 /TCT/QCT MSM8952/Idol4  Xiaoming, HU(WMD PIC SH MML-SH-TCT) (xmhu)  [onetouch feedback]打开camera不能拍照，且切换模式就报错    Opened
+1707408 /TCT/QCT MSM8952/Idol4  Xiaoming, HU(WMD PIC SH MML-SH-TCT) (xmhu)  [onetouch feedback]A2A软件。亮屏的时候双击boom key有时不能完成拍照，没有拍完照的那个震动 Assigned
+1767711 /TCT/QCT MSM8952/Idol4  Xiaoming, HU(WMD PIC SH MML-SH-TCT) (xmhu)  [onetouch feedback]the thumbnail of one HDR photo is wrong  Assigned
+1739328 /TCT/QCT MSM8952/Idol4  Xuan, ZHOU(Archermind) (xuan.zhou)  [onetouch feedback]camera拍全景会卡  Assigned
+1720059 /TCT/QCT MSM8952/Idol4  Yuanxing, TAN(WMD PIC SH MML-SH-TCT) (yuanxing.tan) [onetouch feedback][VIP]Double click does not work for camera capture   Assigned
+1746276 /TCT/QCT MSM8952/Idol4  Yuanxing, TAN(WMD PIC SH MML-SH-TCT) (yuanxing.tan) [Monitor][Boom key]Flash to main menu screen when double press boom key in light screen Assigned
+1749896 /TCT/QCT MSM8952/Idol4  Zhenhuan, FAN(WMD PIC SH MML-SH-TCT) (zhfan)    [Camera]There are some gray shadows in front camera screen when recording   Assigned
+1545917 /TCT/QCT MSM8952/Idol4  Zhenhuan, FAN(WMD PIC SH MML-SH-TCT) (zhfan)    [REG][Camera］Viewfinder interface break in front camera recording video.    Assigned
+1748974 /TCT/QCT MSM8952/Idol4  Zhenhuan, FAN(WMD PIC SH MML-SH-TCT) (zhfan)    [onetouch feedback][VIP]前置camera卡住了 Assigned
+1719200 /TCT/QCT MSM8952/Idol4_Safeguard    Zhang Jianying (jianying.zhang) [jrdlogger]com.tct.camera Java (JE) New
+1772484 /TCT/QCT MSM8952/Idol4_Safeguard    Wenhua, TU(WMD PIC SH MML-SH-TCT) (wenhua.tu)   [jrdlogger]com.tct.camera ANR   New
+1775825 /TCT/QCT MSM8952/Idol4_Safeguard    Wenhua, TU(WMD PIC SH MML-SH-TCT) (wenhua.tu)   [jrdlogger]com.tct.camera Java (JE) New
+1748806 /TCT/QCT MSM8952/Idol4_Safeguard    Xuan, ZHOU(Archermind) (xuan.zhou)  [jrdlogger]com.tct.camera Java (JE) Assigned
+1778732 /TCT/QCT MSM8952/Idol4_Safeguard    Xuan, ZHOU(Archermind) (xuan.zhou)  [jrdlogger]com.tct.camera Java (JE) Assigned
+1775934 /TCT/QCT MSM8952/Idol4_Safeguard    Yuanxing, TAN(WMD PIC SH MML-SH-TCT) (yuanxing.tan) [jrdlogger]com.tct.camera Java (JE) Opened
+1748975 /TCT/QCT MSM8976/Idol4 S    hongyu (hongyu) [jrdlogger]com.tct.camera ANR   Assigned
+1644589 /TCT/QCT MSM8976/Idol4 S    kangh (kangh)   [Stability][Camera]can't connect to camera, with flash light.   Assigned
+1739857 /TCT/QCT MSM8976/Idol4 S    Long, CHEN(WMD PIC CD SWD1-CD-TCT) (long.chen.nb)   [Google CTS][CTS]During CTS test，screen is frozen   Assigned
+1651051 /TCT/QCT MSM8976/Idol4 S    Sichao, HU(WMD PIC SH MML-SH-TCT) (sichao.hu)   [Monitor][Camera]Exposure value icons move when pinch open/close to zoom in/out Assigned
+1697438 /TCT/QCT MSM8976/Idol4 S    Sichao, HU(WMD PIC SH MML-SH-TCT) (sichao.hu)   [onetouch feedback]微信直接拍照发图会模糊  Opened
+1733203 /TCT/QCT MSM8976/Idol4 S    Sichao, HU(WMD PIC SH MML-SH-TCT) (sichao.hu)   [REG][Camera]Preview interface and video invert when record video in front camera   Assigned
+1749364 /TCT/QCT MSM8976/Idol4 S    Sichao, HU(WMD PIC SH MML-SH-TCT) (sichao.hu)   [onetouch feedback][com.tct.camera][Version  v5.2.9.3.0024.0_0225][Other]   Assigned
+1680390 /TCT/QCT MSM8976/Idol4 S    taoting (taoting)   [Camera]Popup"camera isn't responding. Close it?" after burst shooting  Assigned
+1684077 /TCT/QCT MSM8976/Idol4 S    taoting (taoting)   [Camera]it is not smooth when burst shooting    Assigned
+1723178 /TCT/QCT MSM8976/Idol4 S    taoting (taoting)   [Camera][ANR]Camera no responding after capture more than 70 pictures saved in SD card. Assigned
+981996  /TCT/QCT MSM8976/Idol4 S    Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [Performance][Response Time][Camera]Camera start time is 1.357s, expect 0.827s. Opened
+1486201 /TCT/QCT MSM8976/Idol4 S    Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [Performance][Response Time][Camera]Recover to camera from sleep need 1.402s slower than Samsung S6 1.127s  Assigned
+1537232 /TCT/QCT MSM8976/Idol4 S    Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [Camera]It is too slow when switch modes.   Opened
+1778237 /TCT/QCT MSM8976/Idol4 S    Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [onetouch feedback][VIP]autofocus didn t work well during video New
+1566938 /TCT/QCT MSM8976/Idol4 S    Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [onetouch feedback]The face is well detected but the focus is on the motorbike. Assigned
+1761511 /TCT/QCT MSM8976/Idol4 S    Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [onetouch feedback][CAMERA] FOCUSING is back / forth infinitely in backlit scene    New
+1775936 /TCT/QCT MSM8976/Idol4 S    Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [onetouch feedback]Main camera manual mode, wrong data for exposure setting New
+1784774 /TCT/QCT MSM8976/Idol4 S    Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [Camera]It  is not fluent when play  slo.mo video.  Assigned
+1722502 /TCT/QCT MSM8976/Idol4 S    Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [Gallery]Take a photo in front of the computer, and then see this photo, photos refresh phenomenon  Opened
+1785685 /TCT/QCT MSM8976/Idol4 S    Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [Camera]It is very slow to start/stop recording video after operating camera for half day.  Assigned
+1623294 /TCT/QCT MSM8976/Idol4 S    Lei, NIE(Archermind) (v-nj-nie.lei) [Boom key]Press Boom key with vibration when mute mode is on    Opened
+1759810 /TCT/QCT MSM8976/Idol4 S    Lei, NIE(Archermind) (v-nj-nie.lei) [onetouch feedback]When battery is low it says flash can not be used. However when previously left on in slow motion mode flash still goes on and can not be switched off because icon is deactivated.  Assigned
+1719318 /TCT/QCT MSM8976/Idol4 S    Feng Weidong (weidong.feng) [Camera]The video cover and the video play of 4K are abnormal.  Assigned
+1561883 /TCT/QCT MSM8976/Idol4 S    Xiaoming, HU(WMD PIC SH MML-SH-TCT) (xmhu)  [Camera]pop "can't conntect to camera" when capture photo.  Assigned
+1623286 /TCT/QCT MSM8976/Idol4 S    Xiaoming, HU(WMD PIC SH MML-SH-TCT) (xmhu)  [Camera]Viewfinder screen flash black 1.5 seconds when preview interface click back key.    Assigned
+1651834 /TCT/QCT MSM8976/Idol4 S    Xiaoming, HU(WMD PIC SH MML-SH-TCT) (xmhu)  [onetouch feedback]from Ivan, photo in door with hdr has no sharp   Assigned
+1747058 /TCT/QCT MSM8976/Idol4 S    Xiaoming, HU(WMD PIC SH MML-SH-TCT) (xmhu)  [Camera]The viewfinder is abnormal in slo-mo.   Assigned
+1713261 /TCT/QCT MSM8976/Idol4 S    Xuan, ZHOU(Archermind) (xuan.zhou)  [Camera]The screen is not fluent when capture panorama photo.   Assigned
+1713746 /TCT/QCT MSM8976/Idol4 S    Xuan, ZHOU(Archermind) (xuan.zhou)  [onetouch feedback][com.tct.camera][Version  v5.2.9.3.0024.0_0225][Other]   Assigned
+1749086 /TCT/QCT MSM8976/Idol4 S    Xuan, ZHOU(Archermind) (xuan.zhou)  [onetouch feedback][VIP]no timer function !!!   Assigned
+1752845 /TCT/QCT MSM8976/Idol4 S    Xuan, ZHOU(Archermind) (xuan.zhou)  [Camera]The camera screen is flash when long press '+' or '-' on zoom bar.  Assigned
+1662354 /TCT/QCT MSM8976/Idol4 S    Ying, TAN(WMD PIC SH MML-SH-TCT) (ying.tan) [onetouch feedback]Language in camera change from French to English when selecting FYUSE USAGE  Assigned
+1661100 /TCT/QCT MSM8976/Idol4 S    Ying, TAN(WMD PIC SH MML-SH-TCT) (ying.tan) [ALWE][Camera] When we choose the "FYUSE" in French "USAGE" functionnality under camrea the name USAGE switch to FYUSE  Assigned
+1752886 /TCT/QCT MSM8976/Idol4 S    Yuanxing, TAN(WMD PIC SH MML-SH-TCT) (yuanxing.tan) [Camera]It will back to camera viewfinder auto when capture photo by long pressing boom key in lock screen more than 10 pictures.   Opened
+1564427 /TCT/QCT MSM8976/Idol4 S    Zhenhuan, FAN(WMD PIC SH MML-SH-TCT) (zhfan)    [onetouch feedback]前置摄像头拍照有横纹   Assigned
+1746101 /TCT/QCT MSM8976/Idol4 S    Zhenhuan, FAN(WMD PIC SH MML-SH-TCT) (zhfan)    [Camera]Sometimes there is gray shadow in front camera screen when recording.   Opened
+1546432 /TCT/QCT MSM8976/Idol4 S VF Chang Hongnan (hongnan.chang)   [Camera][Monitor]Pop up camera not connect when switch mode quickly Assigned
+1605140 /TCT/QCT MSM8976/Idol4 S VF Zhang Jianying (jianying.zhang) [VF17047][1a - Fatal][CTC][Camera]'Camera - pano mode is very blurry when you take a picture    Opened
+1665022 /TCT/QCT MSM8976/Idol4 S VF Zhang Jianying (jianying.zhang) [Camera]Pano mode catch photo get stuck and the photo is blurred    Opened
+1761290 /TCT/QCT MSM8976/Idol4 S VF Long, CHEN(WMD PIC CD SWD1-CD-TCT) (long.chen.nb)   [NPI][SW] PDAF test issue in MMI test   Assigned
+1761353 /TCT/QCT MSM8976/Idol4 S VF Long, CHEN(WMD PIC CD SWD1-CD-TCT) (long.chen.nb)   [NPI][SW] PDAF test issue in MMI test   Opened
+1123007 /TCT/QCT MSM8976/Idol4 S VF Long, CHEN(WMD PIC CD SWD1-CD-TCT) (long.chen.nb)   [Camera]Photo is green when record a video to take photos   Opened
+1649441 /TCT/QCT MSM8976/Idol4 S VF Long, CHEN(WMD PIC CD SWD1-CD-TCT) (long.chen.nb)   [VF17206][2 - Serious][CTC][Camera]'Camera/Auto mode: Unable to switch to camera mode while video recording is in progress  Assigned
+1713342 /TCT/QCT MSM8976/Idol4 S VF Long, CHEN(WMD PIC CD SWD1-CD-TCT) (long.chen.nb)   [Camera]Can't use camera when in selfie stick mode. Assigned
+1662868 /TCT/QCT MSM8976/Idol4 S VF Sichao, HU(WMD PIC SH MML-SH-TCT) (sichao.hu)   [Camera][Monitor]Camera screen automatic zoom in after switch mode quickly  Assigned
+1535199 /TCT/QCT MSM8976/Idol4 S VF Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [Performance][Response time][Camera]Recover to camera from sleep need 1.514s slower than Samsung S6 1.127s  Assigned
+1546203 /TCT/QCT MSM8976/Idol4 S VF Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [Performance][Response time][Camera]Switch to front camera from rear camera is slower than Samsung S6.  Assigned
+1780891 /TCT/QCT MSM8976/Idol4 S VF Terry, YIN(WMD PIC SH MML-SH-TCT) (tyin)    [Stability][ANR][Monitor][Systemui]Systemui is not responding window popped up during stability test    Assigned
+1488670 /TCT/QCT MSM8976/Idol4 S VF Lei, NIE(Archermind) (v-nj-nie.lei) [VF16736][VF16740][1a - Fatal][CTC][VG][CR][Camera]CR: Mode change for camera needs to be changed   Assigned
+1428374 /TCT/QCT MSM8976/Idol4 S VF Lei, NIE(Archermind) (v-nj-nie.lei) [Camera]Pressing camera key is no response when recording the video Opened
+1750825 /TCT/QCT MSM8976/Idol4 S VF Lei, NIE(Archermind) (v-nj-nie.lei) [Camera]Video had stop and save when click DISMISS  Assigned
+1756205 /TCT/QCT MSM8976/Idol4 S VF Lei, NIE(Archermind) (v-nj-nie.lei) [Monitor][Camera]The face beauty icon will disappear when change to front camera.   Opened
+1761624 /TCT/QCT MSM8976/Idol4 S VF Lei, NIE(Archermind) (v-nj-nie.lei) [Camera][Contact]Photo interface is abnormal after taking photo in contact  Assigned
+1762594 /TCT/QCT MSM8976/Idol4 S VF Lei, NIE(Archermind) (v-nj-nie.lei) [Camera]Camera help tips is incomplete after changing font size to huge Opened
+1759421 /TCT/QCT MSM8976/Idol4 S VF Lei, NIE(Archermind) (v-nj-nie.lei) [Translation][Hungarian][Camera]The camera help tips display incomplete.    Opened
+1759506 /TCT/QCT MSM8976/Idol4 S VF Lei, NIE(Archermind) (v-nj-nie.lei) [Ergo][Camera]Unable to use flashlight and camera at certain battery percentage is not same with ergo define    Assigned
+1759729 /TCT/QCT MSM8976/Idol4 S VF Lei, NIE(Archermind) (v-nj-nie.lei) [Ergo][Camera]The night mode prompt not removed.    Opened
+1780161 /TCT/QCT MSM8976/Idol4 S VF Lei, NIE(Archermind) (v-nj-nie.lei) [Ergo][Camera]There is a timer in manual mode which is not same with ergo   Assigned
+1551009 /TCT/QCT MSM8976/Idol4 S VF Feng Weidong (weidong.feng) [Camera][3rd apk]Camera preview screen is black when switch between photo and video in Weibo camera Assigned
+1759637 /TCT/QCT MSM8976/Idol4 S VF Wenhua, TU(WMD PIC SH MML-SH-TCT) (wenhua.tu)   [Monkey][Crash][Camera]CRASH: com.tct.camera during system test Assigned
+1762086 /TCT/QCT MSM8976/Idol4 S VF Wenhua, TU(WMD PIC SH MML-SH-TCT) (wenhua.tu)   [Camera][Messaging]Video is blurred after recording by messaging    Assigned
+1780866 /TCT/QCT MSM8976/Idol4 S VF Wenhua, TU(WMD PIC SH MML-SH-TCT) (wenhua.tu)   [Monitor][Camera]The screen will become large when enter front camera by volume key.    Assigned
+1752568 /TCT/QCT MSM8976/Idol4 S VF Xuan, ZHOU(Archermind) (xuan.zhou)  [jrdlogger]com.tct.camera   Opened
+1784829 /TCT/QCT MSM8976/Idol4 S VF Ying, TAN(WMD PIC SH MML-SH-TCT) (ying.tan) [Camera]Have ripple in front camera screen  Assigned
+1756086 /TCT/QCT MSM8976/Idol4 S VF Ying, TAN(WMD PIC SH MML-SH-TCT) (ying.tan) [Translation][German][Camera]The manual mode translation display incomplete.    Assigned
+1762178 /TCT/QCT MSM8976/Idol4 S VF Yuanxing, TAN(WMD PIC SH MML-SH-TCT) (yuanxing.tan) [REG][Camera][Force close]The camera happen force close when enter it from lockscreen.  Opened
+1785578 /TCT/QCT MSM8976/Idol4 S_jrdlogger  Ying, TAN(WMD PIC SH MML-SH-TCT) (ying.tan) [jrdlogger]com.tct.camera JE    New
+1785584 /TCT/QCT MSM8976/Idol4 S_jrdlogger  Ying, TAN(WMD PIC SH MML-SH-TCT) (ying.tan) [jrdlogger]com.tct.camera ANR   New
+1785585 /TCT/QCT MSM8976/Idol4 S_jrdlogger  Ying, TAN(WMD PIC SH MML-SH-TCT) (ying.tan) [jrdlogger]com.tct.camera JE    New
+1785586 /TCT/QCT MSM8976/Idol4 S_jrdlogger  Ying, TAN(WMD PIC SH MML-SH-TCT) (ying.tan) [jrdlogger]com.tct.camera JE    New
